@@ -1,7 +1,5 @@
-"""
-Name: Toufique Ayman
-Email: toufiqueayman123@gmail.com
-Account name for my GitHub account
-"""
+# Toufique Ayman
 
-YourGitHubUsername
+- Name: Toufique Ayman
+- Email: toufiqueayman123@gmail.com
+- GitHub Username: toufiqueayman123-hue
